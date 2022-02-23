@@ -1,0 +1,217 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between Hampton-Court and the Isle of Wight Vxbridge being moderator : impartially discoursing of the effects and defects of the treaty : and the likelihoods and unlikelihoods we have of the composure of a well grounded and lasting peace : with the preparations and treachery of the army for preventing the same / by Tom Tell Troath, clarke for His Majesty in the treaty.</title>
+            <author>Tell Troath, Tom.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35879</idno>
+            <idno type="STC">Wing D1312</idno>
+            <idno type="STC">ESTC R467</idno>
+            <idno type="EEBO-CITATION">12264672</idno>
+            <idno type="OCLC">ocm 12264672</idno>
+            <idno type="VID">57973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35879)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57973)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 180:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between Hampton-Court and the Isle of Wight Vxbridge being moderator : impartially discoursing of the effects and defects of the treaty : and the likelihoods and unlikelihoods we have of the composure of a well grounded and lasting peace : with the preparations and treachery of the army for preventing the same / by Tom Tell Troath, clarke for His Majesty in the treaty.</title>
+                  <author>Tell Troath, Tom.</author>
+               </titleStmt>
+               <extent>5 [i.e. 8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57973:1"/>
+            <pb facs="tcp:57973:1" rendition="simple:additions"/>
+            <p>A DIALOGUE BETWEEN HAMPTON-COVRT, AND THE ISLE OF WIGHT: VXBRIDGE being Moderator.</p>
+            <p>Impartially diſcourſing of the effects and de<g ref="char:EOLhyphen"/>fects of the TREATY.</p>
+            <p>And the likelihoods and unlikelihoods we have of the compoſure of a well grounded and laſting Peace.</p>
+            <p>With the preparations and treachery of the Ar<g ref="char:EOLhyphen"/>my for preventing the ſame.</p>
+            <p>By <hi>Tom Tell troath,</hi> Clarke for his Majeſty, in the TREATY.</p>
+            <p>Printed in the Yeare of expectation, of the peace or ruine of the Nation, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:57973:2"/>
+            <pb n="3" facs="tcp:57973:2"/>
+            <head>A Dialogue; &amp;c.</head>
+            <sp>
+               <speaker>Iſle Wight.</speaker>
+               <p>
+                  <seg rend="decorInit">C</seg>Ome, come, Mrs. <hi>Hampton</hi> though you are a great Courtier in the eye, and I but a ſmall ſpot in the face of the Sea, yet I am verily perſwaded that I am thought worthy be<g ref="char:EOLhyphen"/>fore your ſelfe to teeme and bring forth the ſweete and long expected Babe of Peace; Tis not the ſtatelyneſſe of a Court, or the greatneſſe of a City that the Authour and finiſher of Peace lookes upon, the meaner place is more acceptable; Bethlem (where the King of peace himſelfe was born) was thought worthier the<g ref="char:cmbAbbrStroke">̄</g> Jeruſalem that City, to bring forth him that (by his ſuffrings) made peace for the whole world, and why not the <hi>Iſle of Wight</hi> before thee, or Mrs. <hi>
+                     <g ref="char:V">Ʋ</g>xbridge</hi> ei<g ref="char:EOLhyphen"/>ther; yea or <hi>London</hi> the Parliaments Midwife.</p>
+               <p>I have in my Cabinet an ancient Propheſie no leſſe then 500. yeares old, which I believe will now be fulfilled, to the joy of all true Engliſh hearts, that love Peace, truth, unity, and concord, the Father and Mother of all other bleſſings whatſoever; and this Propheſie runs thus:
+<q>
+                     <l>The time ſhall come, a King cloath'd all in white</l>
+                     <l>Shall Crown England with Peace from the Iſle of Wight.</l>
+                  </q>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hampton.</speaker>
+               <p>O Mrs. <hi>Wight</hi> be not too confident, this child may yet prove abortive: Alas, I feare thou muſt ſuffer many bitter pangs before thou art yet delivered of Peace; I know my Royall Maſter has ſuffred many baſe affronts, bitter griefs, and dire laments in thee; was he not betrayd and decoyd in<g ref="char:EOLhyphen"/>to thee, when he took his flight from me, by that Apoſtate <hi>Cromwell?</hi> was he not in thee kept cloſe Priſoner, debarred of the ſociety of all his friends and ſervants, taunted, and uncivilly uſed by wicked <hi>Hamond</hi> his curſed Jaylor? and he
+<pb n="4" facs="tcp:57973:3"/>according to his bounden duty warranted by the Law of God, the Law of nature, and the Law of the Land, namely noble <hi>Burley</hi> making but ſigne of reſiſtance to reſcue His Majeſty from all his miſery, was ſuddenly by theſe wild Ca<g ref="char:EOLhyphen"/>nibals devoured, hangd, drawn, and quartred for his Alege<g ref="char:EOLhyphen"/>ance to his King? did not <hi>Rolfe</hi> (think you) that waited 4 lo<g ref="char:cmbAbbrStroke">̄</g>g houres with a Piſtoll to take away his life, deſerve a ſmall gratuity of 200. l. for his ſo doing? did not <hi>Dowcet</hi> and <hi>Os<g ref="char:EOLhyphen"/>burne</hi> deſerve to be impriſoned for revealing the ſame, and the other revarded for acting the ſame? O <hi>Hammon</hi> remem<g ref="char:EOLhyphen"/>ber <hi>Mordecai,</hi> fear and tremble, for the like preferment will one day fall to thee as it did to thy Nameſake, when it ſhall be read in the Chronicles of the Kings of England, that thou ſetſt on that villain <hi>Rolfe</hi> to murder his Maſter, and didſt ſo<g ref="char:EOLhyphen"/>licite thy Maſters ſo often for him to be ſo well rewarded for ſo foule and wicked an intention; and that wicked villaine Serjant <hi>Wilde,</hi> that condemned and murdred Noble <hi>Burley</hi> (for doing his duty according to Law) muſt releaſe <hi>Rolfe</hi> for doing ſo abhorred an act againſt law, religio<g ref="char:cmbAbbrStroke">̄</g> reaſon or con<g ref="char:EOLhyphen"/>ſcience; Mrs. <hi>Wight</hi> you know all this to be true, do you not?</p>
+            </sp>
+            <sp>
+               <speaker>Wight.</speaker>
+               <p>I but Mrs. <hi>Hampton,</hi> truth is not to be ſpoke at all times; theſe are bugs words againſt the Parliament; have a care they ſtop not your mouth with a little Independent mercy, for that will ſpoile your blabbing for ever after; you know how they uſe to deale with Malignants, and being an old Courtier, and of ſo ancient a houſe as you are, you muſt needs be voted a Malignant and ſo an enemy to the Kingdome and Parliament, and then, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Hamp.</speaker>
+               <p>Were the Parliament as mad as the ſwine poſſeſſed with the Divell, that they were running headlong to their owne confuſion; might not a man adventure to ſtop them, or perſwade them (though to no purpoſe?) plaine Troath feares no colours, had they as many and as changeable at the Rainbow, and their garments were dyed with ſcarlet goar of innocents till they had made this <hi>Iſland</hi> a generall Sepulchre; it ſhould not fright me, I'de tell them on't, and that home too; I ſay they are Tyrants, and inhumane Re<g ref="char:EOLhyphen"/>bels, that have wronged the moſt vertuous King that ever
+<pb n="5" facs="tcp:57973:3"/>Raigned in Chriſtendome, have divided him from his owne Wife, driven him from his Princely Children, impriſoned, defamed, reproached, ſcandalized, renounced, writ and ſpoke all manner of evill againſt him, murdred his Nobility, killed his Gentry, robbed the Commonalty, and enriched themſelves by the ruines of other men, that now they are fat<g ref="char:EOLhyphen"/>ted in miſchiefe; and tumble and lye blowing and gloaring in the wealth of the Kingdome; whileſt Trading is decay<g ref="char:EOLhyphen"/>ed, the People are impoveriſhed, beggery increaſed, many a Member of Chriſt ſtawed, others lie groaning, ſome in goales others in Hoſpitals, ſome Parents amidſt their families keeping time in weeping with their children who want one morſell of bread to ſuſtaine their lives; the Mother ſit<g ref="char:EOLhyphen"/>ting to ſuckle her tender Infant with an empty breaſt, and a more ſorowfull heart liſtning for the dying groanes of her ſtarved childe, and yet this will not move theſe Miſcreants to the the leaſt pitty or compaſſion.</p>
+            </sp>
+            <sp>
+               <speaker>Wight.</speaker>
+               <p>Indeed Mrs. <hi>Hampton</hi> I believe moſt of your ſad ſtory to be true; but if the King and Parliament agree, there will no doubt be a way thought on to encreaſe Trade, that the poore may be ſet on work and all things may be well.</p>
+            </sp>
+            <sp>
+               <speaker>Hampton.</speaker>
+               <p>Alas Mrs. <hi>Wight,</hi> you are deceived; for admit that the King and Parliament ſhould agree, what will the Army doe?</p>
+            </sp>
+            <sp>
+               <speaker>Wight.</speaker>
+               <p>Agree to, or be hanged; were they agreed, wee ſhould doe with the Army well enough.</p>
+            </sp>
+            <sp>
+               <speaker>Hampton.</speaker>
+               <p>But in the meane time they will deale with him, and us to; to what end thinke you tooke they his Ma<g ref="char:EOLhyphen"/>jeſty away from <hi>Holdenby,</hi> without the authority of Par<g ref="char:EOLhyphen"/>liament? was it to bring him to his Parliament, or ſend him to them to be murdered by <hi>Rolfe?</hi> to what end did they make ſo many profeſſions and ingagements for his Maje<g ref="char:EOLhyphen"/>ſties juſt Rights in generall, both at <hi>Newmarket,</hi> and S<hi rend="sup">r</hi>. <hi>Al<g ref="char:EOLhyphen"/>banes,</hi> as may appeare by their voted and revoted Propoſalls; was it for his good? Yes, becauſe the Parliament had pro<g ref="char:EOLhyphen"/>teſted to make him great and glorious; therefore they would ſend him to heaven quickly to be great and glorious there; for I am perſwaded, and ſo are more beſide I, that
+<pb n="6" facs="tcp:57973:4"/>they would never have ſent him to thee Mrs. <hi>Wight,</hi> but to have him murdered; what thinke you meanes the 4000. horſe that are now upon their march under <hi>Ingolsby</hi> to thee, Mrs. <hi>Wight,</hi> is it to bring him to his Parliament? yes I war<g ref="char:EOLhyphen"/>rant you, <hi>the cleane contrary way;</hi> what meant the Indepen<g ref="char:EOLhyphen"/>dents Petition, but to be ſeconded by the Army? What meanes their placing Committees of Independents in all Counties, Caſtles, and places of ſtrength, but to ſubdue all to themſelves? To tell you true Mrs. <hi>Wight,</hi> they meane to governe by the power of the ſword, and care not a pin for King or Parliament either; alas they are againſt both, and will fight againſt both before this Treaty goe forward, or a<g ref="char:EOLhyphen"/>ny peace ſhould be concluded: Doe you thinke that they meane to give over their trade, <hi>viz.</hi> cutting of throats, and murdering their brethren? No, no, blood is the ſweeteſt liquor they can taſte, and ſtole goods that are plundred and robbed from their fellow Subjects, is the only ſtaffe of their life; if they disband they loſe all: <hi>Fairfax</hi> and <hi>Cromwell</hi> intend to ſhare the Kingdome between them; if not both the Kingdomes; <hi>Tom</hi> muſt be King of England, and <hi>Noll</hi> King of Scotland; thinke you we ſhall not be well gover<g ref="char:EOLhyphen"/>ned then? They will be mercifull King; Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas</hi> and Sir <hi>George Lifle</hi> felt their mercy, and ſo I feare ſhall we ere long; for the ſeaven deadly ſins are now the Armies beſt companions, luſt, luxury, and exceſſe, vanity, pride, and prodigality; envy, contention, unnaturall diviſions, oppreſ<g ref="char:EOLhyphen"/>ſion, fraud, and violence, are to be of their privy counſell; oathes, blaſphemies, and prophanations, muſt be their Chap<g ref="char:EOLhyphen"/>laines; envy, hatred, and malice, and all uncharitableneſſe ſhall be their counſellours of eſtate; Engliſh blood ſhall be their wine, the caske your bodies, which they will pierce with their ſwords, your goods ſhall be their prey, your wives ſhall be their lawndreſſes, and cookes, chambermates, and the like, your ſons and daughters their ſlaves, your cat<g ref="char:EOLhyphen"/>tle at their command; beſides you ſhall pay for rods by ſub<g ref="char:EOLhyphen"/>ſidies to whip and afflict your ſelves; and in this manner ſhall you labour and worke for them ſo long as you live; is not heere a thorow Reformation indeed? Is not heere a
+<pb n="7" facs="tcp:57973:4"/>Kingdome well governed, when you muſt be ſlaves to the verieſt ſlaves in a Kingdome? Then when it is too late, and the rod is upon you, you will cry cut with anguiſh of heart; <hi>O that we had knowne the day of our viſitation, but now 'tis hid from our eyes;</hi> O that we had but knowne obedience to ſo good a King as King <hi>Charles,</hi> we had not now been ſlaves to theſe Rogues, and ſcums of mankinde? O that wee had been wiſe in time, but now tyranny, wrath, anguiſh, and deſtruction hath ſeized upon us; we murmured at ſhipmo<g ref="char:EOLhyphen"/>ney before, but now wee are ſhip wracked of all wee have; we thought our happineſſe miſery then; but now our miſe<g ref="char:EOLhyphen"/>ry is our happineſſe indeed, and who may we thanke, but our owne obſtinancy and diſobedience? for which ſin we are now forced to obey thoſe that ſometime were our inferi<g ref="char:EOLhyphen"/>ours: What a caſe are we now in, when our lives, liberties, and eſtates lye all under the command of the ſword of a treacherous and revolting Army?</p>
+            </sp>
+            <sp>
+               <speaker>Wight.</speaker>
+               <p>Mrs. <hi>Hampton,</hi> I believe thou ſpeakeſt all out of envy, becauſe my Governour is an Independent, and I my ſelfe am commanded by the Army; I profeſſe I thinke the Army meanes well to the King, for all this and will for their advantage cloſe againe with him, and ruine the Parliament.</p>
+            </sp>
+            <sp>
+               <speaker>Hampton.</speaker>
+               <p>No, no, never thinke that; they will have no King but Chriſt forſooth, and he muſt raigne in their rotten conſciences, and their rotten conſciences muſt raigne over you; for the Parliament they intend to breake up that, and chuſe Repreſentatives by their owne power, without the Kings Writ, that ſhall be all Independent, which ſhall be the upholders, preſervers, maintainers, ſetlers, and eſtabliſhers of the Kingdome; they meane to have a Parliament that that they can rule, this is too unruly for them; then for the liberty of the Subject, when Sir <hi>Thomas</hi> and his copartner <hi>Crumwell</hi> ſhall be the Kingdomes Stewards, and diſpoſe of all as they ſhall thinke fit, the honour and priviledge of Par<g ref="char:EOLhyphen"/>liament muſt needs be well backed and maintained then; when they ſhall act or doe nothing but by the order of the Army.</p>
+               <p>Uxbridge. <hi>But ſtay a while Mrs.</hi> Hampton, <hi>what will
+<pb n="5" facs="tcp:57973:5"/>you ſay, if</hi> London <hi>and the whole Kingdome riſe in armes to quell this tyrannicall Army, what will you ſay then?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hampton.</speaker>
+               <p>Then they will prevent all this; but they are ſo beſotted and bewitched to their owne ruine, that they had rather live ſlaves, then reſiſt the Army, there is danger in that, and danger they love not, and Religion and they are upon ſhaking hands and parting.</p>
+               <p>Uxbridge. <hi>But if the King ſignes to what he ſwore to main<g ref="char:EOLhyphen"/>taine at his Coronation, how doth he preſerve his honour, or a good Conſcience; or what will he be the better?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Hamp.</speaker>
+               <p>If he breakes his Oath in ſigning to the Presbyterian Religion; farewell Conſcience; for the Militia tis in the hands of the Army, and they willl ſcourge him with his own Rod; but if he looſeth his Honour and a good Conſcience (as God forbid) and granteth all things they ask, which to prevent more effuſion of innocent blood he will do, he muſt remaine but the outſide, the picture and ſigne of a King, to the Parliament them<g ref="char:EOLhyphen"/>ſelves, and ſigne or ſigne not be ruined by the Army too: Had ever King two ſuch Maſters, if he pleaſeth the Parliament then he diſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaſeth the Ar<g ref="char:EOLhyphen"/>my, and if he ſides with the Army then he diſpleaſeth the Parliament; and betweene two Thieves he is crucified, either of them traetyrouſly in<g ref="char:EOLhyphen"/>forcing, or craftily perſwading His Majeſty; for avoiding the devou<g ref="char:EOLhyphen"/>ring Gulph <hi>Charibdis,</hi> to daſh himſelfe againſt the ſharpe Rock of death-threatning <hi>Seylla,</hi> according to that old verſe, never more truly verified then now.
+<q xml:lang="lat">
+                     <l>—<hi>Incidit in Seyllam, cupiens vitare Charibdim.</hi>
+                     </l>
+                  </q>
+                  <q>
+                     <l>Hee's daſht againſt <hi>Scylla's</hi> Rock, and quite deſtroy'd,</l>
+                     <l>Hoping <hi>Charibdis</hi> Whirle-poole to avoid.</l>
+                  </q>
+               </p>
+            </sp>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <p>AND certainely this is too evident when we conſider the ſad condi<g ref="char:EOLhyphen"/>tion of His Majeſty ſince he hath been in their hands; being toſt and tumbled up and downe by theſe moſt trayterous and rebellious Sectaries and Schiſmaticks, to keep him in the griping pawes and captivity of <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> and his Confederate <hi>Hammond, Rolfe,</hi> and others to make up their own mouths and worke out their owne weale, though with the inevita<g ref="char:EOLhyphen"/>ble Ruine and deſtruction of ſo gracious and good a King, and the utter confuſion of a poor, tottering, torn and miſerable diſtracted Church and State; But if London ſtill wants eyes to ſee the miſery that is comming upon her, I would ſhe might be blind for ever; the wealth is moſt in her, and where the Carcas is Eagles will gather thither: Me thinks I heare her laſt dying knell ſound in mine eares, and her very heart-ſtrings crack, an alarme is given to her already.</p>
+               <p>And if hereafter ſhe will not be ſhent, let pollicy teach her to prevent her certaine ruine, that comes poſting on with her inevitable deſtruction.</p>
+            </div>
+            <closer>
+               <signed>Tho. Tel treath.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:57973:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
